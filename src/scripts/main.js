@@ -24,6 +24,10 @@ $(function () {
   const definition = {
     id: 'thisform',
 
+    success: () => {
+      console.log('SUCCESS');
+    },
+
     sections: [
       {
         rows: [

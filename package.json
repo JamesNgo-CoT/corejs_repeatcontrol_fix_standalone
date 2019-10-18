@@ -38,7 +38,7 @@
     "run-sequence": "^1.2.2"
   },
   "dependencies": {
-    "core": "git+https://github.com/CityofToronto/corejs.git#feature/repeatcontrol_fix",
+    "core": "github:CityofToronto/corejs#feature/dropzone_recaptcha_2",
     "cotui": "git+https://github.com/CityofToronto/COT_UI.git#1.0.2"
   },
   "coreConfig": {
